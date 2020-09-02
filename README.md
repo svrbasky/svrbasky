@@ -44,7 +44,13 @@
 <br/>
 <br/>
 
-# Latest Blog Posts
+---
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+---
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Thermal Imaging based Vitals Monitoring to Track COVID-19 without Compromising Privacy](https://medium.com/@svrbasky/thermal-imaging-based-vitals-monitoring-to-track-covid-19-without-compromising-privacy-1079d54d1987?source=rss-a63bd69c3b4a------2)
 <!-- BLOG-POST-LIST:END -->
