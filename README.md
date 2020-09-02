@@ -61,8 +61,12 @@
 - [Sambhar (Veggies Lentil soup) ------Krishna Cooks](https://www.youtube.com/watch?v=B8bdEzq_X1o)
 <!-- YOUTUBE:END -->
 ---
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="svrbasky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svrbasky&show_icons=true&hide_border=true" />
 
+</details>
 
 
 
