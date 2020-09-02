@@ -65,6 +65,7 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="svrbasky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svrbasky&show_icons=true&hide_border=true&theme=cobalt" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svrbasky&layout=compact)](https://github.com/svrbasky/github-readme-stats)
 
 </details>
 
