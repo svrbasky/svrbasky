@@ -19,6 +19,7 @@
 [<img align="left" alt="svrbasky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="svrbasky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="Gyaan Academy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gyaanacademy]
 
 <br/>
 
@@ -60,7 +61,7 @@
 [website]: https://krishnavijaysamayamantri.com/
 [twitter]: https://twitter.com/svrbasky
 [youtube]: https://www.youtube.com/user/Basky008
-
+[gyaanacademy]: https://www.youtube.com/channel/UCwzp0RuekIwrmIpy4CR1jfQ
 [instagram]: https://instagram.com/svrbasky
 [linkedin]: https://www.linkedin.com/in/svrkrishnavijay/
 
