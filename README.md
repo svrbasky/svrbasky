@@ -48,6 +48,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Minimum-Gas-Wastage System Part 2](https://www.youtube.com/watch?v=15tN68NBmMg)
+- [Minimum-Gas-Wastage System part 1](https://www.youtube.com/watch?v=1bpv1gykat8)
+- [Mind Controlled Wheelchair demo](https://www.youtube.com/watch?v=Tcs7tvqU3tg)
+- [Katha Screenplay Director Villain Krishna Vijay](https://www.youtube.com/watch?v=9gOfdkjMmpQ)
+- [Sambhar (Veggies Lentil soup) ------Krishna Cooks](https://www.youtube.com/watch?v=B8bdEzq_X1o)
 <!-- YOUTUBE:END -->
 ---
 
