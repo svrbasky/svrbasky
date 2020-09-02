@@ -26,6 +26,8 @@
 
 <img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" />
+<img align="left" alt="C++ Programming" width="26px" src="https://github.com/svrbasky/svrbasky/blob/master/icons/c-logo-icon-28389.png" />
+<img align="left" alt="C++ Programming" width="26px" src="https://github.com/svrbasky/svrbasky/blob/master/icons/c-logo-icon-28389.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,9 +39,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<a href="https://icon-library.net/icon/c-programming-icon-7.html" title="C Programming Icon #331657"><img src="https://icon-library.net//images/c-programming-icon/c-programming-icon-7.jpg" width="350" /></a>
-
-<img align="left" alt="C++ Programming" width="26px" src="https://github.com/svrbasky/svrbasky/blob/master/icons/c-logo-icon-28389.png" />
 
 C
 C++
