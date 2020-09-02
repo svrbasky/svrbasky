@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there, I'm [Krishna Vijay Samayamantri][website] 👋
 
 [![Website](https://img.shields.io/badge/Krishna%20Vijay%20Samayamantri-Biomedical%20Engineer-brightgreen)](https://krishnavijaysamayamantri.com/)
@@ -42,7 +41,6 @@
 
 <img align="left" alt="C++ Programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/cpp_programming.png" />
 
-
 C
 C++
 LabVIEW
@@ -61,6 +59,8 @@ LabVIEW
 
 [instagram]: https://instagram.com/svrbasky
 [linkedin]: https://www.linkedin.com/in/svrkrishnavijay/
+<<<<<<< HEAD
+=======
 =======
 ### Hi there, I'm [Krishna Vijay Samayamantri][website] 👋
 
@@ -122,3 +122,4 @@ LabVIEW
 [instagram]: https://instagram.com/svrbasky
 [linkedin]: https://www.linkedin.com/in/svrkrishnavijay/
 >>>>>>> c5f90973153ea78cce7cbb0c6e82ae84ce150bd4
+>>>>>>> 9fa039c891763f2c3a466fa566ccf2a6e9a6e64d
