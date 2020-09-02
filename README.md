@@ -1,16 +1,21 @@
 ### Hi there, I'm [Krishna Vijay Samayamantri][website] 👋
 
 [![Website](https://img.shields.io/badge/Krishna%20Vijay%20Samayamantri-Biomedical%20Engineer-brightgreen)](https://krishnavijaysamayamantri.com/)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social)](https://twitter.com/svrbasky)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsvrbasky&screen_name=svrbasky)
 
-## I'm a Biomedical Engineer by Training, Electrical Engineer by Degree, Scientist by Heart and Lifelong Learner!!
+<a class="twitter-follow-button"
+  href="https://twitter.com/TwitterDev">
+Follow @svrbasky</a>
+(https://twitter.com/svrbasky)
+
+## I am a Biomedical Engineer, Electrical Engineer, Scientist and Lifelong Learner!!
 - I am seeking jobs in Computer Vision, Signal Processing and Machine Learning applied to Biomedical Diagnostics.
 - I've completed MS in Electrical Engineering in 2019.
 - Have over 10 years of academic R&D experience.
 - Worked in both hardware and software development.
 - I am currently learning Deep Learning and Algorithm Development.
 - 2020 Goals: Obtain a sustainable job soon and get married.
-- Creative Endeavors: Indian Classical Music, Poetry, Beatboxing!
+- Creative Endeavors: Indian Classical Music, Poetry, Beat-boxing!
 
 ### Find me at:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
