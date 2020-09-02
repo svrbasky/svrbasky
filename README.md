@@ -39,7 +39,7 @@
 
 <a href="https://icon-library.net/icon/c-programming-icon-7.html" title="C Programming Icon #331657"><img src="https://icon-library.net//images/c-programming-icon/c-programming-icon-7.jpg" width="350" /></a>
 
-<img align="left" alt="C++ Programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/cpp_programming.png" />
+<img align="left" alt="C++ Programming" width="26px" src="https://github.com/svrbasky/svrbasky/blob/master/icons/c-logo-icon-28389.png" />
 
 C
 C++
