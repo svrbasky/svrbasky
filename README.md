@@ -64,6 +64,11 @@
 
 ### 📺 Latest Gyaan Academy Videos
 <!-- GYAAN-ACADEMY:START -->
+- [Let's Learn Adding! - Telugu](https://www.youtube.com/watch?v=8uaVVtyj7Ik)
+- [General Formula of a Quadratic Equation - Telugu](https://www.youtube.com/watch?v=1Xhn43s87jk)
+- [Introduction to Quadratic Equations - Telugu](https://www.youtube.com/watch?v=LlK-Oi3_EkI)
+- [General Formula of a Quadratic Equation - English](https://www.youtube.com/watch?v=QinNnobAnFk)
+- [Introduction to Quadratic Equations - English](https://www.youtube.com/watch?v=YMGMFAfW9aU)
 <!-- GYAAN-ACADEMY:END -->
 ---
 <details>
