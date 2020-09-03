@@ -61,6 +61,11 @@
 - [Sambhar (Veggies Lentil soup) ------Krishna Cooks](https://www.youtube.com/watch?v=B8bdEzq_X1o)
 <!-- YOUTUBE:END -->
 ---
+
+### 📺 Latest Gyaan Academy Videos
+<!-- GYAAN-ACADEMY:START -->
+<!-- GYAAN-ACADEMY:END -->
+---
 <details>
   <summary>:zap: Github Stats</summary>
 
